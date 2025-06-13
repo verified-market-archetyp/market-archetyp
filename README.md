@@ -56,4 +56,6 @@ If you're prepared to explore Archetyp Market, here are the links to begin your 
 
 This guide is provided solely for educational purposes. The information aims to enhance understanding of the darknet. We do not support or encourage any illegal activities. Always comply with local laws and regulations when exploring the internet. Stay safe and informed.
 
-Update: Updated social media and contact links
+
+
+Update:  13 June 2025
