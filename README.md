@@ -64,4 +64,6 @@ This guide is provided solely for educational purposes. The information aims to 
 
 
 
-Update:  21 June 2025 Route updates
+
+
+Update: Fixed redirect issues in documentation
