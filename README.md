@@ -66,4 +66,6 @@ This guide is provided solely for educational purposes. The information aims to 
 
 
 
-Update: Fixed redirect issues in documentation
+
+
+Update:  24.06.2025 04:40
